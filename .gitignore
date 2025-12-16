@@ -13,3 +13,7 @@
 /reference/shaders-dxbc
 /build
 /out/build
+
+/c2cs/ffi
+/c2cs/dxil-spirv
+/c2cs/c2ffi-merged.json

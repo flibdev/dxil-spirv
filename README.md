@@ -4,6 +4,10 @@ This project aims to provide translation of DXIL (SM 6.x) shaders to SPIR-V whic
 which implements D3D12 on top of Vulkan.
 Using [dxbc-spirv](https://github.com/doitsujin/dxbc-spirv) it also handles legacy DXBC shaders.
 
+## Wolvenkit Fork
+
+Uses [C2CS](https://github.com/bottlenoselabs/c2cs) and [C2FFI](https://github.com/bottlenoselabs/c2ffi) to generate C# bindings. See the [C2CS Readme](/c2cs/README.md)
+
 ## Building
 
 ### Dependencies

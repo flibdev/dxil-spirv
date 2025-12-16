@@ -1,0 +1,12 @@
+{
+  "inputFilePath": "../dxil_spirv_c2cs.h",
+  "outputDirectory": "./ffi/",
+  "userIncludeDirectories": [
+    "../"
+    ],
+  "targetPlatforms": {
+    "windows": {
+      "x86_64-pc-windows-msvc": {}
+    }
+  }
+}

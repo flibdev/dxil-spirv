@@ -1,0 +1,8 @@
+{
+  "inputFilePath": "./c2ffi-merged.json",
+  "outputFileDirectory": "./dxil-spirv/",
+  "className": "DXIL_SPIRV",
+  "namespaceName": "WolvenKit.ShaderTools",
+  "targetFrameworkMoniker": "net8.0",
+  "libraryName": "dxil-spirv-c-shared"
+}
